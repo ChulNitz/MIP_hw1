@@ -71,7 +71,7 @@ def Q_4_e():
     plt.xlim([0,256])
     plt.title("dark gray image histogram")
     plt.show()
-    return img
+    return gray
 
 #perform Histogram equalization
 def Q_4_f(gray):
